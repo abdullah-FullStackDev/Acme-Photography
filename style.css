@@ -1,7 +1,7 @@
 .container{
     background-color: white;
     height: 86vh;
-    width: 800px;
+    width: 750px;
 }
 .im{
     max-width: 100%;
@@ -28,4 +28,16 @@ body{
 .d-f-c{
     display: flex;
     flex-direction: column;
+}
+.btn{
+    padding: 1rem 3rem;
+    border: 1px #ccc solid;
+    display: inline-block;
+    margin: 2rem 0 0;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #333;
+}
+.p{
+    padding-right: 0;
 }
