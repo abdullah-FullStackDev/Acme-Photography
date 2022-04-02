@@ -1,9 +1,10 @@
 .container{
     background-color: white;
-    height: 86vh;
+    height: 100vh;
     width: 750px;
 }
 .im{
+    width: 350px;
     max-width: 100%;
     max-height: 100%;
 }
@@ -15,12 +16,16 @@
 }
 body{
     background: #eee;
+    overflow-x: hidden;
 }
 .tl{
     text-align: right;
 }
 .d-flex{
     display: flex;
+}
+.m-auto{
+    margin: auto;
 }
 .pp{
     padding-right: 20px;
@@ -43,5 +48,11 @@ body{
 }
 .container-2{
     background-color: #333;
+    max-width: 100%;
     width: 750px;
+    color: white;
+    height: 50px;
+}
+.ppp{
+    padding-top: 15px;
 }
