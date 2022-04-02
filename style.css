@@ -25,3 +25,7 @@ body{
 .pp{
     padding-right: 20px;
 }
+.d-f-c{
+    display: flex;
+    flex-direction: column;
+}
