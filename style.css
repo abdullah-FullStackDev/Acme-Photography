@@ -54,13 +54,16 @@ body{
     color: white;
     height: 50px;
 }
-.ppp{
-    papx;
-}
 .dd{
     border-left: dotted 1px #fff;
     border-right: dotted 1px #fff;
     display: inline-block;
     padding-right: 1rem;
     padding-left: 1rem;
+}
+.container-3{
+    background-color: white;
+    max-height: 100%;
+    width: 750px;
+    max-width: 100%;
 }
