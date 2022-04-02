@@ -1,6 +1,7 @@
 .container{
     background-color: white;
     height: 100vh;
+    min-height: 100%;
     width: 750px;
     max-width: 100%;
 }
@@ -28,7 +29,7 @@ body{
     margin: auto;
 }
 .pp{
-    padding-right: 20px;
+    padding-right: 10px;
 }
 .d-f-c{
     display: flex;
@@ -54,7 +55,7 @@ body{
     height: 50px;
 }
 .ppp{
-    padding-top: 15px;
+    papx;
 }
 .dd{
     border-left: dotted 1px #fff;
