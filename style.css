@@ -2,9 +2,9 @@
     background-color: white;
     height: 100vh;
     width: 750px;
+    max-width: 100%;
 }
 .im{
-    width: 350px;
     max-width: 100%;
     max-height: 100%;
 }
@@ -55,4 +55,11 @@ body{
 }
 .ppp{
     padding-top: 15px;
+}
+.dd{
+    border-left: dotted 1px #fff;
+    border-right: dotted 1px #fff;
+    display: inline-block;
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
