@@ -10,7 +10,7 @@ this is made with html5 and css3
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/my-tunes/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/Acme-Photography/)
 
 ## Getting Started
 
@@ -28,6 +28,6 @@ The project is public.
 Contributions, issues and feature requests are welcome!
 
 ## Show your support
-
+)
 Give a ⭐️ if you like this project!
 
